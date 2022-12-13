@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e578a6db.css",
+    "main.css": "/static/css/main.b43bac51.css",
     "main.js": "/static/js/main.9bede5e1.js",
     "static/js/787.2d7c15e5.chunk.js": "/static/js/787.2d7c15e5.chunk.js",
     "static/media/giphy (3).gif": "/static/media/giphy (3).93fe26ae97a4df3d4e67.gif",
@@ -17,12 +17,12 @@
     "static/media/Regumapp-1.png": "/static/media/Regumapp-1.a5b8df2f96f1d353015e.png",
     "static/media/regumlogo.png": "/static/media/regumlogo.79d6f046ef048ae1496b.png",
     "index.html": "/index.html",
-    "main.e578a6db.css.map": "/static/css/main.e578a6db.css.map",
+    "main.b43bac51.css.map": "/static/css/main.b43bac51.css.map",
     "main.9bede5e1.js.map": "/static/js/main.9bede5e1.js.map",
     "787.2d7c15e5.chunk.js.map": "/static/js/787.2d7c15e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e578a6db.css",
+    "static/css/main.b43bac51.css",
     "static/js/main.9bede5e1.js"
   ]
 }
