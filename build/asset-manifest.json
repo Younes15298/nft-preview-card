@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b43bac51.css",
-    "main.js": "/static/js/main.9aa661c8.js",
+    "main.css": "/static/css/main.b5e00945.css",
+    "main.js": "/static/js/main.b3177a8d.js",
     "static/js/787.2d7c15e5.chunk.js": "/static/js/787.2d7c15e5.chunk.js",
     "static/media/giphy (3).gif": "/static/media/giphy (3).93fe26ae97a4df3d4e67.gif",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
@@ -17,12 +17,12 @@
     "static/media/Regumapp-1.png": "/static/media/Regumapp-1.a5b8df2f96f1d353015e.png",
     "static/media/regumlogo.png": "/static/media/regumlogo.79d6f046ef048ae1496b.png",
     "index.html": "/index.html",
-    "main.b43bac51.css.map": "/static/css/main.b43bac51.css.map",
-    "main.9aa661c8.js.map": "/static/js/main.9aa661c8.js.map",
+    "main.b5e00945.css.map": "/static/css/main.b5e00945.css.map",
+    "main.b3177a8d.js.map": "/static/js/main.b3177a8d.js.map",
     "787.2d7c15e5.chunk.js.map": "/static/js/787.2d7c15e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b43bac51.css",
-    "static/js/main.9aa661c8.js"
+    "static/css/main.b5e00945.css",
+    "static/js/main.b3177a8d.js"
   ]
 }
